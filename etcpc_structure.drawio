@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T19:50:02.579Z" agent="5.0 (Windows)" etag="mznSzmeW6vUYmol6ENvf" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T20:18:57.732Z" agent="5.0 (Windows)" etag="MmQlzFaH3JLHGIqiIXhp" version="16.1.0" type="github">
   <diagram id="hZgRkW4Kh9cMTMM9FMmJ" name="Page-1">
-    <mxGraphModel dx="1102" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="1000" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yb3H-mhaVjrvabLYlUrJ-5" value="" style="group;rounded=1;sketch=1;fontFamily=Comic Sans MS;align=center;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="419" y="355" width="80" height="100" as="geometry" />
+          <mxGeometry x="419" y="348" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yb3H-mhaVjrvabLYlUrJ-3" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_Green_128x128.png;rounded=1;sketch=1;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="yb3H-mhaVjrvabLYlUrJ-5">
           <mxGeometry width="80" height="80" as="geometry" />
@@ -32,15 +32,6 @@
         </mxCell>
         <mxCell id="yb3H-mhaVjrvabLYlUrJ-7" value="Scientific Committee" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
           <mxGeometry x="134" y="485" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yb3H-mhaVjrvabLYlUrJ-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/auction-Verdict-judge-law-gavel-128.png;rounded=1;sketch=1;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
-          <mxGeometry x="394" y="345" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="yb3H-mhaVjrvabLYlUrJ-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/auction-Verdict-judge-law-gavel-128.png;rounded=1;sketch=1;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
-          <mxGeometry x="395" y="535" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="yb3H-mhaVjrvabLYlUrJ-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/17_Law_Action_auction_court_gavel_hammer_judge_legal-128.png;rounded=1;sketch=1;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
-          <mxGeometry x="314" y="615" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="yb3H-mhaVjrvabLYlUrJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;fontFamily=Comic Sans MS;align=center;curved=1;" edge="1" parent="1" target="yb3H-mhaVjrvabLYlUrJ-3">
           <mxGeometry relative="1" as="geometry">
